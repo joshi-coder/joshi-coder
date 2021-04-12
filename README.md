@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @joshi-coder
 - 👀 I’m interested in doing Coding Stuff.
 - 🌱 I’m currently learning to survive
-- 📫 How to reach me www.linkedin.com/in/ 
-bharat-joshi-159b531a2
+- 📫 How to reach me www.linkedin.com/in/bharat-joshi-159b531a2
 
 
 <!---
